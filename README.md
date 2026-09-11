@@ -6,7 +6,7 @@ $${\color{#228b22}\textit{cxh . not that much active on pt ,, prolly doing rando
 </p>
 <p align="center">
   ⌜ 
-  <img width="300" height="300" alt="🌈 - 🍀🥔🍀 - 🍀🥔🍀 - 🍀🥔🍀 - 🌈" src="https://github.com" />
-  ⌟
+  <img width="400" height="400" alt="🌈 - 🍀🥔🍀 - 🍀🥔🍀 - 🍀🥔🍀 - 🌈" src="https://github.com/user-attachments/assets/2fec8548-2446-4863-a23e-0d127b4ece6e" />
+ ⌟
 </p>
 
