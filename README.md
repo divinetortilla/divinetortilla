@@ -4,6 +4,8 @@ $${\color{#228b22}\textit{cxh . not that much active on pt ,, prolly doing rando
 <img width="150" height="20" alt="blinkiesCafe-2k" src="https://github.com/user-attachments/assets/b652a0ef-bced-4209-9c2a-6ac29af9efaf" />
 <img width="150" height="20" alt="blinkiesCafe-aM" src="https://github.com/user-attachments/assets/efd8c38c-c469-4bb4-8215-561104331ca8" />
 </p>
-<p align="center"> <img width="300" height="300" alt="🌈 - 🍀🥔🍀 - 🍀🥔🍀 - 🍀🥔🍀 - 🌈" src="https://github.com/user-attachments/assets/8d28af37-dcd2-4e5f-984b-50f8c9fa1da7" />
+<p align="center"> 
+  ┌
+  <img width="300" height="300" alt="🌈 - 🍀🥔🍀 - 🍀🥔🍀 - 🍀🥔🍀 - 🌈" src="https://github.com/user-attachments/assets/8d28af37-dcd2-4e5f-984b-50f8c9fa1da7" />
 
 
