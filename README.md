@@ -1,1 +1,1 @@
- wip ill fix it after im done with lame school
+<div align="center"> $\color{#afafaf}\text{testing}$</div>
