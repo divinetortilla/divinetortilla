@@ -5,8 +5,6 @@ $${\color{#228b22}\textit{cxh . not that much active on pt ,, prolly doing rando
 <img width="150" height="20" alt="blinkiesCafe-aM" src="https://github.com/user-attachments/assets/efd8c38c-c469-4bb4-8215-561104331ca8" />
 </p>
 <p align="center">
-  <div style="display: inline-block; padding: 12px; border: 4px solid transparent; border-image: conic-gradient(from 90deg at 4px 4px, #0000 25%, #fff 0) 0 0 1 1 / 8px / 12px;">
-    <img width="300" height="300" alt="🌈 - 🍀🥔🍀 - 🍀🥔🍀 - 🍀🥔🍀 - 🌈" src="https://github.com" />
-  </div>
+  ⌜ <img width="300" height="300" alt="🌈 - 🍀🥔🍀 - 🍀🥔🍀 - 🍀🥔🍀 - 🌈" src="https://github.com" /> ⌟
 </p>
 
