@@ -14,4 +14,4 @@
 </p>
 <p align="center"> $\color{#228b22}\text{LISTENING TO : sick beat -- kero kero bonito .}$</p>
 
-<p align="center"> $\color{#3b719f}\textit{we need to be loud about the women in afghanistan . they lost ALL of their rights . do whatever you can , don't just feel bad about them , DO SOMETHING . if you have freedom , SHOUT . SPREAD AWARENESS . this is absolutely so messed up .}$</p> 
+<p align="center"> $\color{#3b719f}\textit{we need to be loud about the women in afghanistan . they lost ALL of their rights . do whatever you can .}$</p> 
