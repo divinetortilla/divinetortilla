@@ -13,10 +13,9 @@
   ⌞ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;⌟ <br>
 </p>
 <p align="center"> $\color{#3b719f}\textit{we need to be loud about the women in afghanistan . they lost ALL of their rights . do whatever you can .}$</p> 
-
-<p align="center">
-  <a href="https://www.last.fm/user/cloverlxcky" target="_blank">
+<div align="center">
+  <a href="https://last.fm" target="_blank">
     <img src="https://vercel.app" alt="Last.fm Now Playing" />
   </a>
-</p>
+</div>
 
