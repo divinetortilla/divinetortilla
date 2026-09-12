@@ -13,7 +13,5 @@
   ⌞ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;⌟ <br>
 </p>
 <p align="center"> $\color{#3b719f}\textit{we need to be loud about the women in afghanistan . they lost ALL of their rights . do whatever you can .}$</p> 
-<a href="https://last.fm">
-  <img src="https://workers.dev" alt="Recent Music" width="400" />
-</a>
+[![Last.fm](https://vercel.app)](https://last.fm)
 
