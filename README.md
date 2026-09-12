@@ -16,7 +16,7 @@
 
 <div id="player" align="center">
     <a href="https://last.fm">
-        <img src="https://vercel.app" alt="NOW PLAYING . . ." />
+        <img src="https://vercel.app" alt="Now Playing on Last.fm" />
     </a>
 </div>
 
