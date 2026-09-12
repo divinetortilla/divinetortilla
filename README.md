@@ -1,9 +1,10 @@
 <p align="center"> $\color{#b3e5b3}\text{" i could be a friend or , i could be a foe ! you make the decision that is all i know ... "}$</p>
 <p align="center"> $\color{#228b22}\text{cxh . not that much active on pt ,, prolly doing random stuff while keeping my game going .}$</p>
 <p align="center">
-<img width="150" height="20" alt="blinkiesCafe-tG" src="https://github.com/user-attachments/assets/1db01a51-2ab5-47d3-b67b-ed8fe9eeae96" />
+<img width="150" height="20" alt="blinkiesCafe-wG" src="https://github.com/user-attachments/assets/c15dc2e9-34cf-46ad-b1d7-2e07ba0f2793" />
 <img width="150" height="20" alt="blinkiesCafe-2k" src="https://github.com/user-attachments/assets/b652a0ef-bced-4209-9c2a-6ac29af9efaf" />
 <img width="150" height="20" alt="blinkiesCafe-aM" src="https://github.com/user-attachments/assets/efd8c38c-c469-4bb4-8215-561104331ca8" />
+<img width="150" height="20" alt="blinkiesCafe-JZ" src="https://github.com/user-attachments/assets/d44aecff-cb5f-4cac-ae5d-28fd9d21e9e7" />
 </p>
 <p align="center">
   ⌜ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;⌝<br>
