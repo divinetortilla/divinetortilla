@@ -14,5 +14,6 @@
 </p>
 <p align="center"> $\color{#3b719f}\textit{we need to be loud about the women in afghanistan . they lost ALL of their rights . do whatever you can .}$</p> 
 <a href="https://last.fm">
-  <img src="https://vercel.app/api?user=cloverlxcky" alt="recent music" width="400" />
+  <img src="https://workers.dev" alt="Recent Music" width="400" />
 </a>
+
