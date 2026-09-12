@@ -12,6 +12,11 @@
   <img width="400" height="400" alt="🌈 - 🍀🥔🍀 - 🍀🥔🍀 - 🍀🥔🍀 - 🌈" src="https://github.com/user-attachments/assets/54785b7c-7a28-45a1-ad3d-6aa3a2deee07" /> <br>
   ⌞ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;⌟ <br>
 </p>
-<p align="center"> $\color{#228b22}\text{LISTENING TO : sick beat -- kero kero bonito .}$</p>
-
 <p align="center"> $\color{#3b719f}\textit{we need to be loud about the women in afghanistan . they lost ALL of their rights . do whatever you can .}$</p> 
+
+<div id="player" align="center">
+    <a href="https://last.fm">
+        <img src="https://vercel.app" alt="NOW PLAYING . . ." />
+    </a>
+</div>
+
