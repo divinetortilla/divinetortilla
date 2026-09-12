@@ -14,9 +14,5 @@
 </p>
 <p align="center"> $\color{#3b719f}\textit{we need to be loud about the women in afghanistan . they lost ALL of their rights . do whatever you can .}$</p> 
 
-<div id="player" align="center">
-    <a href="https://last.fm">
-        <img src="https://vercel.app" alt="Now Playing on Last.fm" />
-    </a>
-</div>
+[![Last.fm](https://vercel.app)](https://last.fm)
 
