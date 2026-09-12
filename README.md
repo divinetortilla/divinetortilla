@@ -13,5 +13,8 @@
   ⌞ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;⌟ <br>
 </p>
 <p align="center"> $\color{#3b719f}\textit{we need to be loud about the women in afghanistan . they lost ALL of their rights . do whatever you can .}$</p> 
-[![Last.fm](https://vercel.app)](https://last.fm)
-
+<p align="center">
+  <a href="https://spotify.com">
+    <img src="https://vercel.app" alt="o hai" width="450" />
+  </a>
+</p>
