@@ -5,6 +5,7 @@
 <img width="150" height="20" alt="blinkiesCafe-2k" src="https://github.com/user-attachments/assets/b652a0ef-bced-4209-9c2a-6ac29af9efaf" />
 <img width="150" height="20" alt="blinkiesCafe-aM" src="https://github.com/user-attachments/assets/efd8c38c-c469-4bb4-8215-561104331ca8" />
 <img width="150" height="20" alt="blinkiesCafe-JZ" src="https://github.com/user-attachments/assets/d44aecff-cb5f-4cac-ae5d-28fd9d21e9e7" />
+<img width="150" height="20" alt="blinkiesCafe-7R" src="https://github.com/user-attachments/assets/644208a5-8753-4198-9e94-f22a57fc3caf" />
 </p>
 <p align="center">
   ⌜ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;⌝<br>
